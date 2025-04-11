@@ -15,7 +15,7 @@
     - **Fast and Efficient:** Receive results in seconds, allowing for quick decision making.
 
     ### Get Started
-    Click on the **Disease Recognition** page in the sidebar to upload an image and experience the power of our Plant Disease Recognition System!
+    Click on the **Disease Recognition** page in the sidebar to upload an image and experience the power of our Plant Disease Recognition System!.
 
     ### About Us
     Learn more about the project, our team, and our goals on the **About** page..
