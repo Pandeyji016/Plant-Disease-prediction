@@ -12,7 +12,7 @@
     ### Why Choose Us?
     - **Accuracy:** Our system utilizes state-of-the-art machine learning techniques for accurate disease detection.
     - **User-Friendly:** Simple and intuitive interface for seamless user experience.
-    - **Fast and Efficient:** Receive results in seconds, allowing for quick decision making.
+    - **Fast and Efficient:** Receive results in seconds, allowing for quick decision making.....
 
     ### Get Started
     Click on the **Disease Recognition** page in the sidebar to upload an image and experience the power of our Plant Disease Recognition System!.
