@@ -10,7 +10,7 @@
     3. **Results:** View the results and recommendations for further action.
 
     ### Why Choose Us?
-    - **Accuracy:** Our system utilizes state-of-the-art machine learning techniques for accurate disease detection.....
+    - **Accuracy:** Our system utilizes state-of-the-art machine learning techniques for accurate disease detection.
     - **User-Friendly:** Simple and intuitive interface for seamless user experience.
     - **Fast and Efficient:** Receive results in seconds, allowing for quick decision making.
 
